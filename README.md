@@ -10,8 +10,7 @@ Load solver:
 
 | ?- consult(solveMaze.pl).
 
-To test every possible path of the maze, s
-run:
+To test every possible path of the maze, run:
 
 | ?- print_paths.
 
