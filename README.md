@@ -10,10 +10,13 @@ Load solver:
 
 | ?- consult(solveMaze.pl).
 
-To test every possible path of the maze, run:
+To test every possible path of the maze, s
+run:
+
 | ?- print_paths.
 
 To check all the distances between every possible path on the maze, run:
+
 | ?- print_distances.
 
 Solutions will be written on the output.
