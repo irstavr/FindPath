@@ -6,7 +6,7 @@ Given a complex maze, we find a path between two points and calculate this dista
 
 Load code included in repository:
 
-Load solver:
+### Load solver: ###
 
 > | ?- consult(solveMaze.pl).
 
