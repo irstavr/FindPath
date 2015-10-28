@@ -1,7 +1,6 @@
 # Finding paths in a maze
 Given a complex maze, we find a path between two points and calculate this distance, in Prolog. <br>
 <br>
-<br>
 ## Usage: ##
 
 Load code included in repository:
